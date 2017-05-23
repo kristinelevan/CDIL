@@ -1,2 +1,0 @@
-# CDIL
-CDIL Summer Projects
